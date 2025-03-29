@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce App - Flutter MVVM + Bloc
 
 This repository contains the source code for a feature-rich e-commerce mobile application built with Flutter. It leverages the MVVM (Model-View-ViewModel) architecture, Bloc for state management, and Shared Preferences for local data persistence. The app communicates with a backend API to provide a seamless and robust shopping experience.
@@ -53,3 +54,21 @@ This repository contains the source code for a feature-rich e-commerce mobile ap
 * [Other Relevant Libraries]
 
 ## Project Structure
+=======
+# shop_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 5032f7a (e_commerce_app)
